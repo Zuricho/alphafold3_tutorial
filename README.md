@@ -1,6 +1,6 @@
 # AlphaFold3 Tutorial
 
-[教程PDF](slides.pdf)
+[教程PDF-GitHub](slides.pdf) | [教程PDF-飞书](https://yihpch8rki.feishu.cn/wiki/LNjZwB0JUiFguVk32Pkc1vOUngb?from=from_copylink)
 
 ## PyMOL
 
